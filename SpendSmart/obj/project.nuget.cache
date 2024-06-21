@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "EYvudEmA0pyAmL+ArVtcRGxn5jetP6blJVYvesyYl2WbzRjo/TmdTWb5VkUefULzoaiyIm1NeAWw69H+JD5fJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohammed saif\\Desktop\\ASP.NET CORE MVC\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.4.24267.1\\microsoft.entityframeworkcore.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.4.24267.1\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.4.24267.1\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.0-preview.4.24267.1\\microsoft.entityframeworkcore.inmemory.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.4.24266.19\\microsoft.extensions.caching.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.4.24266.19\\microsoft.extensions.caching.memory.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.4.24266.19\\microsoft.extensions.dependencyinjection.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.4.24266.19\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-preview.4.24266.19\\microsoft.extensions.logging.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.4.24266.19\\microsoft.extensions.logging.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.4.24266.19\\microsoft.extensions.options.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.4.24266.19\\microsoft.extensions.primitives.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.0\\microsoft.windowsdesktop.app.ref.8.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.0\\microsoft.netcore.app.ref.8.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.0\\microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.0\\microsoft.netcore.app.host.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
